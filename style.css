@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(65, 51, 51);
+    color: white;
+}
+.welcome-area {
+    display: flex;
+    margin-top: 30px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+}
+.half-width img {
+    width: 80%;
+}
+.half-width h1{
+    font-size: 50px;
+    
+}
+.orange-color{
+    color: orange;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(#F88366, rgb(255, 136, 0));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
+.dream-area{
+    display: flex;
+    margin-top: 100px;
+}
+
